@@ -1,0 +1,2 @@
+# hex-test
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/HEAD?labpath=blob%2Fmain%2Fhoneycomb.ipynb)
