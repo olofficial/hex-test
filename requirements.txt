@@ -1,6 +1,4 @@
 obplib
 jdc
 matplotlib
-copy
 numpy
-os
