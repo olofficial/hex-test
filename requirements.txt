@@ -2,3 +2,4 @@ obplib
 jdc
 matplotlib
 numpy
+interactive_viewer @ git+https://github.com/olofficial/hex-test/edit/main/interactive_viewer.py
