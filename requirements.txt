@@ -2,4 +2,4 @@ obplib
 jdc
 matplotlib
 numpy
-interactive_viewer @ git+https://github.com/olofficial/interactive_viewer.git@
+interactive_viewer @ git+https://github.com/olofficial/interactive_viewer.git
