@@ -6,11 +6,12 @@ import matplotlib.pyplot as plt
 import numpy as np
 import copy
 import matplotlib.style as mplstyle
-mplstyle.use(['dark_background', 'fast'])
+mplstyle.use(['fast'])
 plt.rcParams['figure.dpi'] = 400
 from matplotlib.collections import LineCollection
 
 def plotty(lines, line_number, upper_lim):
+    fig, ax = plt.subplots()
     x_values = [[copy.copy(lines[i].P1.x), copy.copy(lines[i].P2.x)] for i in range(upper_lim)]
     y_values = [[copy.copy(lines[i].P1.y), copy.copy(lines[i].P2.y)] for i in range(upper_lim)]
     min_lines = max(upper_lim - line_number, 0)
@@ -29,8 +30,9 @@ def plotty(lines, line_number, upper_lim):
     linewidths = np.array(spot_sizes) * 0.01  # Scale linewidths based on spot_size parameter
     
     line_collection.set_linewidth(linewidths)
-    
-    plt.gca().add_collection(line_collection)
+    ax = plt.gca()
+    ax.add_collection(line_collection)
+    ax.set_facecolor('xkcd:black')
     plt.colorbar(line_collection)
 
     last_x_values = x_values[-1]
