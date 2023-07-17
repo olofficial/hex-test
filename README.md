@@ -10,7 +10,7 @@ The `obplib` library offers four code examples that provide a gradual introducti
 
 1. Library Overview: Introduction to the library and its fundamental object, the `Point`. It also covers `Line` objects and provides an initial look at the `.obp` file format. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=introduction.ipynb)
 2. Honeycomb Pattern: Step-by-step creation of a honeycomb pattern from scratch using a class and a grid of points. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=honeycomb.ipynb)
-3. Island Melting: Implementation of island melting by partitioning the build area into a grid of overlapping islands and melting them separately in a specific order. This technique enables a larger build area compared to ordinary line melting.
+3. Island Melting: Implementation of island melting by partitioning the build area into a grid of overlapping islands and melting them separately in a specific order. This technique enables a larger build area compared to ordinary line melting. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/70d420eb14682d13142188875d074d0474593fd8?urlpath=lab%2Ftree%2Fislands.ipynb)
 4. Advanced Functionalities: Exploration of advanced features including curves, accelerating lines, timed points, and transformations.
 
 It is recommended to follow these examples in order, as the honeycomb and island melting notebooks build upon concepts introduced in previous examples.
