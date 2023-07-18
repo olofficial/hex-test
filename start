@@ -1,3 +1,0 @@
-#!/bin/bash
-BEZIER_INSTALL_PREFIX={no_extension}
-exec "$@"
