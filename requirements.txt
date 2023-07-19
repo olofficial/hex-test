@@ -3,4 +3,3 @@ jdc
 matplotlib
 numpy
 interactive_viewer @ git+https://github.com/olofficial/interactive_viewer.git
-Bezier @ git+https://github.com/torresjrjr/Bezier.git
