@@ -40,6 +40,7 @@ def plotty(lines, upper_lim, line_number, show_control_points=False):
         None
     """
     min_lines = max(upper_lim - line_number, 0)
+    print(min_lines, upper_lim, line_number)
     fig, ax = plt.subplots()
     segment_speeds = []
     segment_spot_sizes = []
