@@ -16,9 +16,15 @@ The `obplib` library offers five code tutorials that provide a gradual introduct
    
 4. Island Melting: Implementation of island melting by partitioning the build area into a grid of overlapping islands and melting them separately in a specific order. This technique enables a larger build area compared to ordinary line melting. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/labpath=islands.ipynb)
 
-5. Advanced Functionalities: Exploration of advanced features including curves, accelerating lines, timed points, and transformations. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/07546d7c57a1fa6901cd5a2fdf428052cca51795?urlpath=lab%2Ftree%2Fcurves.ipynb)
+5. Curves: An introduction to Bézier curves and their implementation in `obplib`. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/07546d7c57a1fa6901cd5a2fdf428052cca51795?urlpath=lab%2Ftree%2Fcurves.ipynb)
 
-It is recommended to follow these examples in order, as the cube, honeycomb and island melting notebooks build upon concepts introduced in previous examples.
+6. Accelerating `Line` and `Curve` objects and their implementation.
+
+7. Timed Points (point melting).
+
+8. Transformations. 
+
+It is recommended to follow these examples in order, as many notebooks build upon concepts introduced in previous examples.
 
 # Jupyter Notebooks
 
