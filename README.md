@@ -17,7 +17,7 @@ The `obplib` library offers five code tutorials that provide a gradual introduct
 
 5. Curves: An introduction to Bézier curves and their implementation in `obplib`. [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=curves.ipynb)
 
-6. Accelerating `Line` and `Curve` objects and their implementation.
+6. Accelerating `Line` and `Curve` objects and their implementation. [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=acceleration.ipynb)
 
 7. Timed Points (point melting).
 
