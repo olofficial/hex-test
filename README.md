@@ -9,13 +9,13 @@ The `obplib` library offers five code tutorials that provide a gradual introduct
 
 1. Library Overview: Introduction to the library and its fundamental object, the `Point`. It also covers `Line` objects and provides an initial look at the `.obp` file format. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=introduction.ipynb)
   
-2. Cube grid: Creating an `.obp` build file of 3$`\times`$3 cubes using a class and a grid of points. ![Binder](https://mybinder.org/badge_logo.svg)(https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=cubes.ipynb)
+2. Cube grid: Creating an `.obp` build file of 3$`\times`$3 cubes using a class and a grid of points. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=cubes.ipynb)
   
-3. Honeycomb Pattern: Step-by-step creation of a honeycomb pattern from scratch. ![Binder](https://mybinder.org/badge_logo.svg)(https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=honeycomb.ipynb)
+3. Honeycomb Pattern: Step-by-step creation of a honeycomb pattern from scratch. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=honeycomb.ipynb)
    
-4. Island Melting: Implementation of island melting by partitioning the build area into a grid of overlapping islands and melting them separately in a specific order. This technique enables a larger build area compared to ordinary line melting. ![Binder](https://mybinder.org/badge_logo.svg)(https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=islands.ipynb)
+4. Island Melting: Implementation of island melting by partitioning the build area into a grid of overlapping islands and melting them separately in a specific order. This technique enables a larger build area compared to ordinary line melting. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=islands.ipynb)
 
-5. Curves: An introduction to Bézier curves and their implementation in `obplib`. ![Binder](https://mybinder.org/badge_logo.svg)(https://mybinder.org/v2/gh/olofficial/hex-test/07546d7c57a1fa6901cd5a2fdf428052cca51795?urlpath=lab%2Ftree%2Fcurves.ipynb)
+5. Curves: An introduction to Bézier curves and their implementation in `obplib`. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/07546d7c57a1fa6901cd5a2fdf428052cca51795?urlpath=lab%2Ftree%2Fcurves.ipynb)
 
 6. Accelerating `Line` and `Curve` objects and their implementation.
 
