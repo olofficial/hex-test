@@ -7,7 +7,7 @@ Line melting is a widely used melting pattern in Electron Beam Manufacturing due
 
 The `obplib` library offers five code tutorials that provide a gradual introduction to its functionalities, increasing in complexity:
 
-1. Library Overview: Introduction to the library and its fundamental object, the `Point`. It also covers `Line` objects and provides an initial look at the `.obp` file format. ![Binder](https://mybinder.org/badge_logo.svg)(https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=introduction.ipynb)
+1. Library Overview: Introduction to the library and its fundamental object, the `Point`. It also covers `Line` objects and provides an initial look at the `.obp` file format. [![Binder](https://mybinder.org/badge_logo.svg)][https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=introduction.ipynb]
   
 2. Cube grid: Creating an `.obp` build file of 3$`\times`$3 cubes using a class and a grid of points. ![Binder](https://mybinder.org/badge_logo.svg)(https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=cubes.ipynb)
   
