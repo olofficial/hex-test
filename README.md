@@ -1,4 +1,5 @@
-# Line Melting and the `obplib` Library <img align="right" width="192" height="64" src="https://freemelt.com/app/uploads/freemeltLogo-1.png">
+# Line Melting and the `obplib` Library 
+<img align="right" width="192" height="64" src="https://freemelt.com/app/uploads/freemeltLogo-1.png">
 
 Line melting is a widely used melting pattern in Electron Beam Manufacturing due to its simplicity and effectiveness. To streamline line melting development and enhance productivity, Freemelt has created the open-source Python library called `obplib`.
 
