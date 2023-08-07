@@ -18,9 +18,9 @@ The `obplib` library offers five code tutorials that provide a gradual introduct
 
 6. Accelerating `Line` and `Curve` objects and their implementation. [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=acceleration.ipynb)
 
-7. Timed Points (spot melting). 
+7. Timed Points (spot melting). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=timed_points.ipynb)
 
-8. Transformations of `obplib` objects such as rotation, translation and scaling.  
+8. Transformations of `obplib` objects such as rotation, translation and scaling. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olofficial/hex-test/main?labpath=transformations.ipynb)
 
 It is recommended to follow these examples in order, as many notebooks build upon concepts introduced in previous examples.
 
