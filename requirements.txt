@@ -1,5 +1,6 @@
 obplib
 jdc
 matplotlib
+ipywidgets
 numpy
 notebook_viewer @ git+https://github.com/olofficial/interactive_viewer.git
